@@ -1,0 +1,14 @@
+{
+  "interval_seconds": 7200,
+  "last_run": 1782871907,
+  "tasks": [
+    {
+      "platform": "v2ex",
+      "query": "IA e Tendências"
+    },
+    {
+      "platform": "bilibili",
+      "query": "Agentes Autônomos de IA"
+    }
+  ]
+}

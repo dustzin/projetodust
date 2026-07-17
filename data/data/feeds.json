@@ -1,0 +1,37 @@
+[
+  {
+    "id": "quanta",
+    "name": "Quanta Magazine",
+    "url": "https://api.quantamagazine.org/feed/",
+    "category": "CIÊNCIA",
+    "icon": "🔬"
+  },
+  {
+    "id": "oreilly",
+    "name": "O'Reilly Radar",
+    "url": "https://www.oreilly.com/radar/feed/index.xml",
+    "category": "IA & ENG",
+    "icon": "🤖"
+  },
+  {
+    "id": "mitreview",
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "IA & ENG",
+    "icon": "🔭"
+  },
+  {
+    "id": "hackaday",
+    "name": "Hackaday (EE/DIY)",
+    "url": "https://hackaday.com/feed/",
+    "category": "ENG. ELÉTRICA",
+    "icon": "🔌"
+  },
+  {
+    "id": "chesscom",
+    "name": "Chess.com News",
+    "url": "https://www.chess.com/news/feed",
+    "category": "XADREZ",
+    "icon": "♟"
+  }
+]

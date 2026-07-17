@@ -1,0 +1,6 @@
+{
+  "provider": "freellmapi",
+  "token": "freellmapi-6538d8c66bce5e2d7220f96fc3929048ad346e97f00a24f9",
+  "model": "auto",
+  "url": "http://localhost:3001/v1"
+}

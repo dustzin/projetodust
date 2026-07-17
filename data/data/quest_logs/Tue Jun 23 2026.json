@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Creatina",
+    "desc": "Check-in de Creatina Monohidratada (5g)",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Omega 3",
+    "desc": "Ingestão de Cápsulas de Omega 3 (SNC)",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Calistenia",
+    "desc": "Sessão de Calistenia / Treino de Força",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Boxe",
+    "desc": "Treino de Sprints/Boxe (Cinética)",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Exatas",
+    "desc": "Resolução de Exercícios de Exatas / Física",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Artigos",
+    "desc": "Leitura/Análise de Artigos Acadêmicos",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Livro",
+    "desc": "Leitura de Livro da Biblioteca (Córtex)",
+    "completed": true
+  },
+  {
+    "id": 8,
+    "title": "Xadrez",
+    "desc": "Treino Cognitivo / Partidas de Xadrez (Estratégia)",
+    "completed": true
+  },
+  {
+    "id": 9,
+    "title": "Skincare",
+    "desc": "Rotina de cuidados com a pele (Matutina/Noturna)",
+    "completed": true
+  },
+  {
+    "id": 10,
+    "title": "Meditação",
+    "desc": "Sessão de meditação / respiração para acalmar o SNC",
+    "completed": true
+  }
+]

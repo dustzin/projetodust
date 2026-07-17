@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-07-01T02:11:47Z",
+    "platform": "system",
+    "query": "auto-purge",
+    "status": "success",
+    "risk": "low",
+    "action": "Daemon Start",
+    "detail": "Serviço daemon de monitoramento de inteligência em segundo plano inicializado."
+  },
+  {
+    "timestamp": "2026-07-01T02:11:47Z",
+    "platform": "v2ex",
+    "query": "IA e Tendências",
+    "status": "success",
+    "risk": "LOW (standard public API / search API)",
+    "action": "Daemon Sweep",
+    "detail": "Executou varredura periódica em [v2ex] com sucesso. Fonte final: [v2ex]."
+  },
+  {
+    "timestamp": "2026-07-02T23:55:19.327Z",
+    "platform": "scout",
+    "query": " copywriting",
+    "status": "success",
+    "risk": "HIGH (scout detection node)",
+    "action": "Domain Opportunity Elevation",
+    "detail": "Oportunidade de Domínio detectada: \"Anomalia de  copywriting\" com Gold Score 18.67/10."
+  },
+  {
+    "timestamp": "2026-07-03T00:12:59.335Z",
+    "platform": "scout",
+    "query": "whatsapp automation Chrome extension",
+    "status": "success",
+    "risk": "HIGH (predator capture node)",
+    "action": "Superiority Blueprint Elevation",
+    "detail": "Predador de Software ativado contra: \"Vulnerable whatsapp automation Chrome extension tool\". Gold Score: 18.67/10."
+  },
+  {
+    "timestamp": "2026-07-03T01:22:47.365Z",
+    "platform": "scout",
+    "query": "copywriting",
+    "status": "success",
+    "risk": "HIGH (predator capture node)",
+    "action": "Superiority Blueprint Elevation",
+    "detail": "Predador de Software ativado contra: \"Vulnerable copywriting tool\". Gold Score: 28/10."
+  }
+]
