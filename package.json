@@ -1,0 +1,59 @@
+{
+  "name": "projeto-dust",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "electron.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "electron:dev": "electron .",
+    "electron:build": "npm run build && electron-builder"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwindcss": "^4.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "electron": "^42.5.0",
+    "electron-builder": "^26.15.3",
+    "electron-packager": "^17.1.2",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "postcss": "^8.5.19",
+    "vite": "^8.0.12"
+  },
+  "build": {
+    "appId": "com.dust.os",
+    "productName": "DUST OS",
+    "win": {
+      "target": "nsis"
+    },
+    "files": [
+      "dist/**/*",
+      "electron.cjs",
+      "server.cjs",
+      "package.json",
+      "data/**/*",
+      "config/**/*",
+      "modules/**/*"
+    ],
+    "asarUnpack": [
+      "modules/**/*"
+    ],
+    "directories": {
+      "output": "dist_electron"
+    }
+  }
+}
